@@ -31,7 +31,7 @@
 - 🔭 Actualmente estoy estudiando Ingeniería Informática en la Universidad Autonóma de Occidente en Cali  
   
 
-- 🌱 Actualmente estoy aprendiendo TypeScript y Astro  
+- 🌱 Actualmente estoy aprendiendo React y Astro  
   
 
 - ⚡ Sobre mí: En mis tiempos libres suelo jugar fútbol, videojuegos y programar de manera autonóma  
